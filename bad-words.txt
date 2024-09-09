@@ -1,5 +1,0 @@
-['fuck', 'fick', 'hure', 'arsch', 'fotze',
-'Cannabis', 'Alkohol', 'Alcohol', 'Droge', 'Drug',
-'Heroin', 'Nikotin', 'LSD', 'DMT', 'Zigarette', 'Cigarette',
-'Crack', 'Methamp', 'Crack'
-]
